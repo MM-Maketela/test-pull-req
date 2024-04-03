@@ -1,3 +1,4 @@
 * List item *
 *  List item *
-*  List item * item
+*  List item *
+*  item
